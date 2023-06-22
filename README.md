@@ -1,7 +1,7 @@
 
 # DISCLAIMER ⚠️
 
-Ceci est une version actuellement en Beta, elle peux contenir des bugs que je vous invite à signaler, merci à vous !
+Ceci est une version actuellement en Beta, elle peux contenir des bugs que je vous invite à signaler, merci à vous ♥️ !
 
 # My MIV
 
