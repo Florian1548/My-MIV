@@ -51,3 +51,5 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 <img  src="https://srv.fbr.ninja/index.php/s/Q9abiZ9TJP8LmCr/preview"  width="90%">
 
 Et voilà ! Plus aucun train ou métro ne vous échappera 👀 !
+
+⚠️ Pour revenir dans le menu de configuration, il vous suffit de cliquer dans le coin en haut à gauche de l'écran !
