@@ -14,8 +14,8 @@ Votre écran de station personnel ! Disponible pour smarphone et tablette, vous 
 
 ## <img src="https://srv.fbr.ninja/index.php/s/rXEXdGnkEeQiBBR/preview"  width="5%" height="5%"> Utilisation de l'appli
 
-▶️ La première chose à faire est de vous créer un compte sur la [Plateforme Régionale d'Information pour la Mobilité (PRIM)](https://go.fbr.ninja/progattiny) d'Ile de France Mobilité.
-<img src="https://srv.fbr.ninja/index.php/s/59d8HRRpZ4zLcMe/preview"  width="30%" height="15%">
+▶️ La première chose à faire est de vous créer un compte sur la [Plateforme Régionale d'Information pour la Mobilité (PRIM)](https://prim.iledefrance-mobilites.fr/) d'Ile de France Mobilité.
+<img src="https://srv.fbr.ninja/index.php/s/dDsqQo2TkRygNjS/preview"  width="30%" height="15%">
 
 
 ▶️ Ensuite générez votre clé API.
