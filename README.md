@@ -40,7 +40,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 ▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
 
-<img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
+<img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/E2Mm984orRwCrcr/preview"  width="50%">
 
 ▶ Allez dans "Tableau" puis cherchez votre station, filtrez votre mode de transport pour plus de facilité.
 
