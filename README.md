@@ -38,7 +38,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 <img  src="https://srv.fbr.ninja/index.php/s/N3ojXZFLadWKQ79/preview"  width="90%">
 
-▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
+▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez-vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
 
 <img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
 
