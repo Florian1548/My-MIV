@@ -40,11 +40,11 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 ▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
 
-<img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/E2Mm984orRwCrcr/preview"  width="50%">
+<img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
 
 ▶ Allez dans "Tableau" puis cherchez votre station, filtrez votre mode de transport pour plus de facilité.
 
-<img  src="https://srv.fbr.ninja/index.php/s/dNdpTLPmyiHNwZF/preview"  width="90%">
+<img  src="https://srv.fbr.ninja/index.php/s/dNdpTLPmyiHNwZF/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/E2Mm984orRwCrcr/preview"  width="50%">
 
 ▶ Une ligne passant dans une station à minimum 2 stopPoint (arID) le quai allez et le quai retour, il vous suffit de tester l'un des deux (menu automatique en développement de mon coté 🖥️).
 
