@@ -24,19 +24,19 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 <img  src="https://srv.fbr.ninja/index.php/s/stgcndArX7HWym9/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/pHsneteTJkJ2Yat/preview"  width="50%">
 
-▶ Rendez-vous sur le site [QrCode Monkey](https://go.fbr.ninja/progattiny) copiez votre clé API et générez un QrCode (vous allez voir c'est très pratique !).
+▶ Rendez-vous sur le site [QrCode Monkey](https://www.qrcode-monkey.com/fr/#text) copiez votre clé API et générez un QrCode (vous allez voir c'est très pratique !).
 
 <img  src="https://srv.fbr.ninja/index.php/s/gbbMqPpo8N7iqRy/preview"  width="90%">
 
 ▶ Installer l'APK [disponible ici](https://go.fbr.ninja/progattiny) choisissez la bonne version (tablette ou téléphone).
 
-▶ Si votre appareil vous le demande [autorisez les sources inconnues](https://go.fbr.ninja/progattiny).
+▶ Si votre appareil vous le demande [autorisez les sources inconnues](https://apprendre.pandasuite.com/article/952-autoriser-application-source-inconnue-android).
 
 ▶ Une fois dans l'application, entrez votre clé API ou scannez le QrCode précédemment créer !
 
 <img  src="https://srv.fbr.ninja/index.php/s/N3ojXZFLadWKQ79/preview"  width="90%">
 
-▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez vous ici](https://go.fbr.ninja/progattiny).
+▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
 
 <img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
 
