@@ -42,7 +42,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 <img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
 
-▶ Cherchez votre station, filtrez votre mode de transport pour plus de facilité.
+▶ Allez dans "Tableau" puis cherchez votre station, filtrez votre mode de transport pour plus de facilité.
 
 <img  src="https://srv.fbr.ninja/index.php/s/dNdpTLPmyiHNwZF/preview"  width="90%">
 
