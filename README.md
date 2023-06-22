@@ -30,7 +30,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 <img  src="https://srv.fbr.ninja/index.php/s/gbbMqPpo8N7iqRy/preview"  width="90%">
 
-▶ Installer l'APK [disponible ici](https://go.fbr.ninja/progattiny) choisissez la bonne version (tablette ou téléphone).
+▶ Installer l'APK [disponible ici](https://github.com/Florian1548/My-MIV/tree/main/My%20MIV%20app) choisissez la bonne version (tablette ou téléphone).
 
 ▶ Si votre appareil vous le demande [autorisez les sources inconnues](https://apprendre.pandasuite.com/article/952-autoriser-application-source-inconnue-android).
 
