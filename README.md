@@ -12,6 +12,8 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 ## Compatibilité actuelle:
 
 ▶ 100% des lignes de métro (fonctionnel mais non adapté aux ligne multi-branches).
+
+
 ▶ RER A.
 
 ## Utilisation de l'appli
