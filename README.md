@@ -46,7 +46,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 <img  src="https://srv.fbr.ninja/index.php/s/dNdpTLPmyiHNwZF/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/E2Mm984orRwCrcr/preview"  width="50%">
 
-▶ Une ligne passant dans une station à minimum 2 stopPoint (arRID) le quai allez et le quai retour, il vous suffit de tester l'un des deux (menu automatique en développement de mon coté 🖥️).
+▶ Une ligne passant dans une station à minimum 2 stopPoint (arRID) le quai aller et le quai retour, il vous suffit de tester l'un des deux (menu automatique en développement de mon coté 🖥️).
 
 <img  src="https://srv.fbr.ninja/index.php/s/Q9abiZ9TJP8LmCr/preview"  width="90%">
 
