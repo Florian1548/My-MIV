@@ -5,7 +5,7 @@ Ceci est une version actuellement en Beta, elle peux contenir des bugs que je vo
 
 # My MIV
 
-Votre écran de station personnel !
+Votre écran de station personnel ! Affiche les prochains trains sur un quai donné, compatible sur tout le réseau Ile de France Mobilité: métro, tramway, bus, RER.
 
 Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus de raison de rater votre métro !
 
