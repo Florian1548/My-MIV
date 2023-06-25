@@ -1,7 +1,29 @@
 
-# DISCLAIMER ⚠️
 
-Ceci est une version actuellement en Beta, elle peux contenir des bugs que je vous invite à signaler, merci à vous ♥️ !
+# MISE A JOUR ⚠️
+
+Version release ✅
+
+- Appli smartphone uniquement: 
+
+	Si vous avez déjà l'application d'installée, copier votre clé api et votre code stopPoint et DESINSTALLEZ L'ANCIENNE VERSION⚠️
+
+- Appli tablette: 
+
+	Installez juste la nouvelle version sans désinstaller l'ancienne.
+
+## Nouveautés 📬
+- Nouvelle police.
+- Récupération des logos ligne par API.
+- Compatibilité avec 100% du réseau IDFM (normé API de la PRIM), métro, tram, bus, RER.
+- Correction de bugs (chiffre négatif, bouton on/off du TTS).
+- Vérificateur de clé API.
+- Refonte de l'interface graphique principale.
+- Changement du mode de transport automatique ex: "1er métro/bus/RER/tram".
+- Optimisations de l'application.
+- TTS adaptatif au mode de transport.
+- Récupération automatique du logo du mode de transport.
+- Récupération automatique de la couleur de la ligne.
 
 # My MIV
 
@@ -11,10 +33,7 @@ Disponible pour smartphone et tablette, vous pouvez l'embarquer partout ! Plus d
 
 ## Compatibilité actuelle:
 
-▶ 100% des lignes de métro (fonctionnel mais non adapté aux ligne multi-branches).
-
-
-▶ RER A.
+Toutes lignes Ile de France Mobilités: Métro, BUS, RER, Tram (Conformes à l'API PRIM).
 
 ## Utilisation de l'appli
 
