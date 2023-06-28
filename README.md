@@ -67,7 +67,7 @@ Toutes lignes Ile de France Mobilités: Métro, BUS, RER, Tram (Conformes à l'A
 
 ▶ Une ligne passant dans une station à minimum 2 stopPoint (arRID) le quai aller et le quai retour, il vous suffit de tester l'un des deux (menu automatique en développement de mon coté 🖥️).
 
-<img  src="https://srv.fbr.ninja/index.php/s/Q9abiZ9TJP8LmCr/preview"  width="90%">
+<img  src="https://srv.fbr.ninja/index.php/s/A9drntMm2ieWp2K/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/q8AMarHrBRsFMRm/preview"  width="50%">
 
 Et voilà ! Plus aucun train ou métro ne vous échappera 👀 !
 
