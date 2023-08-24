@@ -1,17 +1,3 @@
-
-
-# MISE A JOUR ⚠️
-
-Version release ✅
-
-- Appli smartphone uniquement: 
-
-	Si vous avez déjà l'application d'installée, copier votre clé api et votre code stopPoint et DESINSTALLEZ L'ANCIENNE VERSION⚠️
-
-- Appli tablette: 
-
-	Installez juste la nouvelle version sans désinstaller l'ancienne.
-
 ## Nouveautés 📬
 - Nouvelle police.
 - Récupération des logos ligne par API.
