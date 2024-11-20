@@ -25,15 +25,15 @@ Toutes lignes Ile de France Mobilités: Métro, BUS, RER, Tram (Conformes à l'A
 
 ▶ La première chose à faire est de vous créer un compte sur la [Plateforme Régionale d'Information pour la Mobilité (PRIM)](https://prim.iledefrance-mobilites.fr/) d'Ile de France Mobilité.
 
-<img  src="https://srv.fbr.ninja/index.php/s/dDsqQo2TkRygNjS/preview"  width="90%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/1.png"  width="90%">
 
 ▶ Ensuite générez votre clé API.
 
-<img  src="https://srv.fbr.ninja/index.php/s/stgcndArX7HWym9/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/pHsneteTJkJ2Yat/preview"  width="50%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/2.png"  width="50%"><img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/3.png"  width="50%">
 
 ▶ Rendez-vous sur le site [QrCode Monkey](https://www.qrcode-monkey.com/fr/#text) copiez votre clé API et générez un QrCode (vous allez voir c'est très pratique !).
 
-<img  src="https://srv.fbr.ninja/index.php/s/gbbMqPpo8N7iqRy/preview"  width="90%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/4.png"  width="90%">
 
 ▶ Installer l'APK [disponible ici](https://github.com/Florian1548/My-MIV/tree/main/My%20MIV%20app) choisissez la bonne version (tablette ou téléphone).
 
@@ -41,19 +41,19 @@ Toutes lignes Ile de France Mobilités: Métro, BUS, RER, Tram (Conformes à l'A
 
 ▶ Une fois dans l'application, entrez votre clé API ou scannez le QrCode précédemment créer !
 
-<img  src="https://srv.fbr.ninja/index.php/s/N3ojXZFLadWKQ79/preview"  width="90%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/5.png"  width="90%">
 
 ▶ Le stopPoint correspond à l'identifiant du quai que vous souhaitez programmer, pour le trouver, [rendez-vous ici](https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets).
 
-<img  src="https://srv.fbr.ninja/index.php/s/gPpxfwmLoTpMK8b/preview"  width="90%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/6.png"  width="90%">
 
 ▶ Allez dans "Tableau" puis cherchez votre station, filtrez votre mode de transport pour plus de facilité.
 
-<img  src="https://srv.fbr.ninja/index.php/s/dNdpTLPmyiHNwZF/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/E2Mm984orRwCrcr/preview"  width="50%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/7.png"  width="50%"><img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/8.png"  width="50%">
 
 ▶ Une ligne passant dans une station à minimum 2 stopPoint (arRID) le quai aller et le quai retour, il vous suffit de tester l'un des deux (menu automatique en développement de mon coté 🖥️).
 
-<img  src="https://srv.fbr.ninja/index.php/s/A9drntMm2ieWp2K/preview"  width="50%"><img  src="https://srv.fbr.ninja/index.php/s/q8AMarHrBRsFMRm/preview"  width="50%">
+<img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/9.png"  width="50%"><img  src="https://flocdn.s3.fr-par.scw.cloud/GitHub/10.png"  width="50%">
 
 Et voilà ! Plus aucun train ou métro ne vous échappera 👀 !
 
